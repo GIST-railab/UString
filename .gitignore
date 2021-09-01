@@ -12,5 +12,5 @@ script/res
 data/mmdetection*
 *.mp4
 *_tmp*
-lib/
+lib/mmdetection/work_dirs/cascade_rcnn_x101_64x4d_fpn_1x_kitti2d/*
 models/
